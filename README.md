@@ -2,7 +2,7 @@ English:<br/>
 Story: When the spirits of the dead are no longer falling, the clock rings at midnight. By the time people realize the danger coming, it's already too late.
 The zombies roared and charged at the player. Players subconsciously make instinctive resistance, wanting to fight against zombies, but the zombies will continue to get stronger. Until the nature of the virus is exposed, when the virus completely changes the world, it will also be devastated.
 
-Description: Since this Addon is currently in the initial testing phase, there are many creatures that are not yet complete, so please understand that. Ben Addon prevents zombies from being burned during the day, and cows will actively attack the player.
+Description: Since this Addon is currently in the initial testing phase, there are many creatures that are not yet complete, so please understand that. This Addon prevents zombies from being burned during the day, and cows will actively attack the player.
 
 BUG: Zombies will only attack the player, it seems that the enemy seeking function is not fully written, and neither villagers nor iron golems will be hostile to zombies
 
